@@ -1,0 +1,9 @@
+app:
+  name: sf-bench-repo-006
+    version: 1.0.0
+      environment: production
+
+      server:
+        host: 0.0.0.0
+          port: 8080
+          
